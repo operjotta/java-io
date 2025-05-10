@@ -22,11 +22,11 @@ que facilitam o processo sequencial de dados.
 - ``FielOutputStream``
 - ``Reader``
 - ``Writer``
-- [``FileReader``](#a-classe-filereader-e-bufferedreader)
-- [``BufferedReader``](#a-classe-filereader-e-bufferedreader)
+- ``FileReader``
+- ``BufferedReader``
 - ``FileWriter``
-- [``Scanner``](#a-classe-scanner)
-- [``Files``](#a-classe-files)
+- ``Scanner``
+- ``Files``
 
 # A classe ``FileReader`` e ``BufferedReader``
 
