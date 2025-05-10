@@ -1,0 +1,3 @@
+Rato 3 8400,50 true
+Teclado 2 19300,0 false
+Portátil 2 399999,99 true
