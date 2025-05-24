@@ -128,6 +128,6 @@ e observe o resultado. Ou ainda execute comandos na linha de comandos para compi
 e executar as classes.
 
 ````shell
-javac -d out -cp src src/[nome-da-ficheiro.java]
+javac -d out -cp src src/[nome-do-ficheiro.java]
 java -cp out [nome-da-classe]
 ````
